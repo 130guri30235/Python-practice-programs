@@ -5,3 +5,4 @@ This repository contains beginner Python programs and mini projects created whil
 ## Programs Included
 1. hello.py - My first Python program
 2. calculator.py - Simple calculator mini project
+3. guess_game.py - Number guessing mini game
