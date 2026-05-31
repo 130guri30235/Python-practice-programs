@@ -7,3 +7,4 @@ This repository contains beginner Python programs and mini projects created whil
 2. calculator.py - Simple calculator mini project
 3. guess_game.py - Number guessing mini game
 4. password_generator.py - Random password generator project
+5. student_grade.py - Student grade calculator based on average marks
