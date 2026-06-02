@@ -8,3 +8,4 @@ This repository contains beginner Python programs and mini projects created whil
 3. guess_game.py - Number guessing mini game
 4. password_generator.py - Random password generator project
 5. student_grade.py - Student grade calculator based on average marks
+6. even_odd_checker.py - Checks whether a number is even or odd
