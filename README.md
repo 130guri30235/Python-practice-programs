@@ -9,3 +9,4 @@ This repository contains beginner Python programs and mini projects created whil
 4. password_generator.py - Random password generator project
 5. student_grade.py - Student grade calculator based on average marks
 6. even_odd_checker.py - Checks whether a number is even or odd
+7. min_of_three_numbers.py - Finds the smallest of three numbers using conditional statements and logical operators
