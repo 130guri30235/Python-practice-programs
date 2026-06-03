@@ -82,46 +82,21 @@ A simple calculator that performs basic arithmetic operations such as addition, 
 Developed as part of my Python programming learning journey.
 
 
-🎯 4. Guess Name Game
+🎲 4. Number Guessing Game
 
 📌 About:
 
-A simple game where the user attempts to guess a predefined name.
+A Python-based Number Guessing Game where the computer generates a random number between 1 and 100, and the user attempts to guess it correctly.
 
 ⚙️ How the Program Works:
 
-1. The program stores a secret name.
+1. The program generates a random number between 1 and 100.
 2. The user enters a guess.
-3. The program compares the input with the stored name.
-4. A success or failure message is displayed.
-
-🛠️ Technologies Used:
-
-- Python 3
-
-💡 Concepts Used:
-
-- Variables
-- Input/Output
-- Conditional Statements
-- Loops
-
-⭐ Acknowledgement:
-
-Developed to practice user interaction and conditions.
-
-🎲 5. Number Guessing Game
-
-📌 About:
-
-A game where the user tries to guess a randomly generated number.
-
-⚙️ How the Program Works:
-
-1. The program generates a random number.
-2. The user enters a guess.
-3. The program provides hints such as "Too High" or "Too Low".
-4. The game continues until the correct number is guessed.
+3. If the guess is greater than the secret number, the program displays a hint.
+4. If the guess is less than the secret number, the program displays a hint.
+5. The program counts the number of attempts made by the user.
+6. The game continues until the correct number is guessed.
+7. Once guessed correctly, the total number of attempts is displayed.
 
 🛠️ Technologies Used:
 
@@ -130,16 +105,19 @@ A game where the user tries to guess a randomly generated number.
 
 💡 Concepts Used:
 
-- Loops
+- Variables
+- Loops (while loop)
 - Conditional Statements
+- User Input
 - Random Number Generation
+- Counter Variable
 
-⭐Acknowledgement:
+⭐ Acknowledgement:
 
-Created as part of Python training exercises.
+Developed as part of my Python programming training to practice loops, conditions, and random number generation.
 
 
-🔍 6. Minimum of Three Numbers
+🔍 5. Minimum of Three Numbers
 
 📌 About:
 
@@ -165,7 +143,7 @@ A program that finds the smallest number among three user inputs.
 Developed to strengthen logical thinking and decision-making skills.
 
 
-🔐 7. Password Generator
+🔐 6. Password Generator
 
 📌 About:
 
@@ -192,7 +170,7 @@ A program that generates random passwords for users.
 
 Created while learning Python modules and string manipulation.
 
-🎓 8. Student Grade System
+🎓 7. Student Grade System
 
  📌 About:
 A Python-based Student Grade System that accepts student marks and assigns grades based on predefined grading criteria.
