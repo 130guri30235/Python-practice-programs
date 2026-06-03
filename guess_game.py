@@ -1,12 +1,19 @@
 import random
 
-number = random.randint(1, 10)
+a = random.randint(1, 100)
+guess = 101
+count = 0
 
-guess = int(input("Guess a number between 1 and 10: "))
+while guess != a:
+    guess = int(input("Enter your guess: "))
+    count += 1
 
-if guess == number:
-    print("Congratulations! You guessed correctly.")
+    if guess > a:
+        print("Guess is Higher")
+    elif guess < a:
+        print("Guess is Lower")
+    else:
+        print("Guess is done" ,a)
 
-else:
-    print("Wrong guess!")
-    print("The correct number was:", number)
+print("Number was:", a)
+print("Attempts:", count)
