@@ -180,7 +180,7 @@ A Python-based Student Grade System that accepts student marks and assigns grade
 2. The program evaluates the marks.
 3. The appropriate grade is assigned.
 4. The grade is displayed to the user.
-
+   
 🛠️ Technologies Used:
 - Python 3
 
@@ -194,6 +194,39 @@ A Python-based Student Grade System that accepts student marks and assigns grade
 Developed as part of my Python programming training to understand grading systems and conditional logic.
 
 
+🔐8. Login Program
+
+📌 About:
+
+A Python-based Login Program that verifies a user's username and password. The program checks the entered credentials against predefined values and displays whether the login attempt is successful or unsuccessful.
+
+⚙️ How the Program Works:
+
+1. The program stores a predefined username and password.
+2. The user enters a username.
+3. The user enters a password.
+4. The program compares the entered credentials with the stored credentials.
+5. If both username and password match, a success message is displayed.
+6. If the credentials do not match, an error message is displayed.
+7. The program ends after displaying the result.
+
+🛠️ Technologies Used:
+
+- Python 3
+
+💡 Concepts Used:
+
+- Variables
+- Input/Output
+- Conditional Statements
+- Comparison Operators
+- User Authentication Logic
+  
+⭐Acknowledgement:
+
+Developed as part of my Python programming training to practice conditional statements, user input handling, and basic authentication concepts.
+
+
 🚀 Skills Practiced:
 
 - Python Programming
@@ -201,6 +234,7 @@ Developed as part of my Python programming training to understand grading system
 - Variables and Data Types
 - Input/Output Operations
 - Conditional Statements
+- Comparison Operators
 - Loops
 - Functions
 - Random Module
